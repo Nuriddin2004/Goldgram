@@ -31,8 +31,7 @@ Telegram 9.6.6 / exteraGram. Asosiy loyiha GPL-2.0; uchinchi tomon kutubxonalari
 alohida litsenziyalari manba arxivida saqlangan. Mualliflik qaydlari saqlanadi.
 
 Bu rasmiy Telegram yoki AyuGram relizi emas. Telegram Premium server imkoniyatlari
-mahalliy sozlamalar bilan ochilmaydi. Birinchi kirishda o‘zingizning Telegram API ID
-va hash ma’lumotlaringiz talab qilinadi.
+mahalliy sozlamalar bilan ochilmaydi. Goldgram.3 dan boshlab API ID/hash talab qilinmaydi; telefon raqamingiz bilan kirasiz.
 
 APK kompilatsiyasi va host testlari tekshirilgan. Haqiqiy Android telefonda
 kirish, yangilanish, qo‘ng‘iroqlar va barcha upstream funksiyalar hali sinalmagan.
