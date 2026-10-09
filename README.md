@@ -14,7 +14,7 @@ o‘rnatiladi. APK'ni yangilash uchun eski ilovani o‘chirish kerak emas.
 ## Yangilanishlar
 
 `9.6.6-Goldgram.2` dan boshlab, ilova ochilganda ko‘pi bilan har 6 soatda yangi
-versiya tekshiriladi. Qo‘lda tekshirish uchun Preferences → Goldgram yangilanishlari
+versiya tekshiriladi. Qo‘lda tekshirish uchun Goldgram sozlamalari → Goldgram yangilanishlari
 bo‘limini oching. Tekshirishni shu oynada o‘chirish mumkin.
 
 APK yuklash tugma orqali boshlanadi. O‘rnatishni Android oynasida tasdiqlaysiz.
@@ -35,3 +35,5 @@ mahalliy sozlamalar bilan ochilmaydi. Goldgram.3 dan boshlab API ID/hash talab q
 
 APK kompilatsiyasi va host testlari tekshirilgan. Haqiqiy Android telefonda
 kirish, yangilanish, qo‘ng‘iroqlar va barcha upstream funksiyalar hali sinalmagan.
+
+Goldgram.4: ilova sarlavhalari, sozlamalar, boshlanish ekrani va 12 rangdagi G ikonalar Goldgram brendiga moslashtirilgan. Asl mualliflar litsenziyalar oynasida va manba kodida saqlangan.
